@@ -1,0 +1,7 @@
+= Simple to uppercase function
+
+== Build the application
+```
+cd myuppercase
+mvn clean package
+```
