@@ -1,4 +1,4 @@
-= Simple to uppercase function
+= Simple to uppercase function example
 
 == Build the application
 ```
